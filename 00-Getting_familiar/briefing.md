@@ -23,11 +23,8 @@ In this challenge, you will be expected to:
 ## Execution
 
 1. Write code that will make and instance of the `Challenge` class.
-
 2. Print this instance's `.data` property to the terminal.
-
 3. Use the information obtained from the `.data` property to modify the `.solution` property.
-
 4. Use the `.check_solution()` method to check your answer. (`True` if correct, otherwise `False`)
 
 ## Conclusion
