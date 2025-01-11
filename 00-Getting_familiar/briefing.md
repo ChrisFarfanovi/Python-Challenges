@@ -1,4 +1,4 @@
-# Challenge 00 - Getting familiar
+# Getting familiar
 
 ## Situation
 

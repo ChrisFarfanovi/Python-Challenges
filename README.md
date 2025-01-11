@@ -14,8 +14,10 @@ These challenges are inspired by the Contracts found in [Bitburner](https://stor
 |-:|:-|
 | `briefing.md` | A document describing the challenge and any relevant information |
 | `challenge.py` | This script is used to generate data for, and check solutions for, each challenge. |
-| `example_solution.py` | [optional] Some Challenges may include and example solution |
 | `my_solution.py` | This is where you write your own solution. Some challenges may come with some information pre-populated. |
+| `community_solutions.py` | [optional] A folder for community solutions |
+| `example_solution.ipynb` | [optional] Some Challenges may include an example/worked solution (these will typically be `.ipynb` notebooks) |
+| `solver_stress_tester.py` | [optional] This script allows you to check your solver dynamically and stress-test it against thousands of versions of the challenge. |
 
 ⛔ ***Do not*** modify the `challenge.py` script as this may break the challenges. You ***can***, however, analyse the code found here to help you with certain challenges.
 
@@ -30,7 +32,11 @@ These challenges are inspired by the Contracts found in [Bitburner](https://stor
 ### ✅ Done
 
 [00-Getting_familiar](/00-Getting_familiar/briefing.md)
-[01-Prime-ary_challenge](/01-Prime-ary_challenge/briefing.md)
+[01-Prime-y_challenge](/01-Prime-y_challenge/briefing.md)
+
+### 🛠️ WIP
+
+[02-Close-enough_Prime](/WIP/02-Close-enough_Prime/briefing.md)
 
 ### ❓ To-do
 
@@ -56,11 +62,11 @@ As with [Parsing parentheses II](#parsing-parentheses-ii)
 
 Removing empty pairs to reduce the complexity of the expression.
 
-### 🔥 Bitburner
+### 🔥 Bitburner Challenges
 
 Mostly from [here](https://github.com/bitburner-official/bitburner-src/blob/stable/src/data/codingcontracttypes.ts)
 
-#### Largest Prime Factor
+#### Largest Prime Factor ([02-Close-enough_Prime](/))
 
 Given a number, find its largest prime factor. A prime factor is a factor that is a prime number.
 

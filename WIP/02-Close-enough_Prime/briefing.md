@@ -1,4 +1,4 @@
-# Challenge 01 - Prime-ary challenge
+# Close-enough Prime
 
 ## Situation
 
@@ -6,7 +6,7 @@ A prime number is any number that is ***only*** divisible by itself and 1.
 
 Some popular examples include:
 
-`1` | `2` | `3` | `5` | `7` | `11` | `13` | `17`
+`2` | `3` | `7` | `13` | `41` | `101` | `19,999,999`
 
 ## Mission
 
@@ -24,3 +24,5 @@ If there are 2 numbers equally far away, the solution is both numbers.
 4. Check the solution using the `.check_solution` method.
 
 ## Conclusion
+
+This challenge may introduce some interesting performance considerations
