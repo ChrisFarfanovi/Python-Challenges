@@ -1,4 +1,4 @@
-# Prime-y challenge
+# 01-Prime-y challenge
 
 ## Situation
 

@@ -32,11 +32,18 @@ These challenges are inspired by the Contracts found in [Bitburner](https://stor
 ### ✅ Done
 
 [00-Getting_familiar](/00-Getting_familiar/briefing.md)
-[01-Prime-y_challenge](/01-Prime-y_challenge/briefing.md)
+
+#### 🔢 Maths
+
+[01-Prime_Factor](/Maths/01-Maths-Prime_Factor/briefing.md)
+
+#### 🔐 Cryptography
+
+[01-Caesar_Cipher_I](/Cryptography/01-Caesar_Cipher_I/briefing.md)
 
 ### 🛠️ WIP
 
-[02-Close-enough_Prime](/WIP/02-Close-enough_Prime/briefing.md)
+[0?-Close-enough_Prime](/WIP/0?-Closest_Prime/briefing.md)
 
 ### ❓ To-do
 
@@ -66,7 +73,7 @@ Removing empty pairs to reduce the complexity of the expression.
 
 Mostly from [here](https://github.com/bitburner-official/bitburner-src/blob/stable/src/data/codingcontracttypes.ts)
 
-#### Largest Prime Factor ([02-Close-enough_Prime](/))
+#### ✅ Largest Prime Factor ([01-Maths-Prime_Factor](/01-Maths-Prime_Factor/briefing.md))
 
 Given a number, find its largest prime factor. A prime factor is a factor that is a prime number.
 
@@ -378,7 +385,7 @@ aaaaaaaaaaaaa -> 1a91031
 aaaaaaaaaaaaaa -> 1a91041
 ```
 
-#### Encryption I: Caesar Cipher
+#### ✅ Encryption I: Caesar Cipher ([Cryptography/01-Caesar_Cipher_I](/Cryptography/01-Caesar_Cipher_I/briefing.md))
 
 Caesar cipher is one of the simplest encryption technique. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and A would become X (because of rotation).
 

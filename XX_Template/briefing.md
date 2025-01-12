@@ -1,4 +1,4 @@
-# Challenge XX - [Challenge Title]
+# XX-[Challenge Title]
 
 ## Situation
 
