@@ -4,7 +4,17 @@
 
 The idea here is to provide some simple puzzles to stretch our scripting muscles.
 
-These challenges are inspired by the Contracts found in [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/)
+These challenges are mostly inspired by the Contracts found in [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/)
+
+## 🚦 Getting Started
+
+To get started - simply fork this repo for yourself.
+
+From there you can make any changes you like and use Github to track your own code.
+
+Make sure to sync your fork periodically so that any new challenges get added automatically.
+
+If you have any questions or suggestions just message me, [open a discussion](https://github.com/ChrisFarfanovi/Python-Challenges/discussions/new/choose) or [open a new issue](https://github.com/ChrisFarfanovi/Python-Challenges/issues/new?template=Blank+issue).
 
 ## 🏗️ Structure
 
