@@ -24,10 +24,6 @@ We have also removed the spaces.
 
 This technique is an extremely simple form of encryption, where the `secret` is just the number of letters shifted.
 
-You are given an array with two elements. The first element is the plaintext, the second element is the left shift value. Return the ciphertext as uppercase string.
-
-Spaces remain the same.
-
 ## Mission
 
 You will be given a list of 3 random words and a random integer between 1 and 25.
