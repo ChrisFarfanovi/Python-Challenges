@@ -3,6 +3,7 @@ from challenge import Challenge  # Importing the Challenge class
 
 def my_solver(challenge: Challenge):  # Defining your solver
     data = challenge.data  # Storing our challenge data
+
     word1 = data[0]
     word2 = data[1]
     word3 = data[2]
