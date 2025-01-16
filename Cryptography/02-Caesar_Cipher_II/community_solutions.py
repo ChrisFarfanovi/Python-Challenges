@@ -25,4 +25,4 @@ if __name__ == "__main__":
     test = Challenge()
     solution = chris_f(test)
     result = test.check_solution(solution)
-    print(solution, result)
+    print(f"{test.data} | {solution} | {result}")

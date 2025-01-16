@@ -4,7 +4,7 @@ from challenge import Challenge  # Importing the Challenge class
 def my_solver(challenge: Challenge):  # Defining your solver
     data = challenge.data  # Storing our challenge data
     # YOUR SOLVER GOES HERE
-    return ...  # Don't forget to return your solution!
+    return ""  # Don't forget to return your solution!
 
 
 if __name__ == "__main__":
