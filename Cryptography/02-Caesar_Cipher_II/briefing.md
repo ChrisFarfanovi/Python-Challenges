@@ -34,18 +34,21 @@ HELLOWORLD
 
 You will be given a `Caesar Cipher` to decrypt.
 
-Encrypt these words using the `Caesar Cipher`.
+Find the key by finding the difference between the first and last characters.
 
-Take the last character of the encrypted string and encrypt it again. This will serve as a way to decrypt the message later.
+Use this key to decrypt the message
 
-Add this character to the beginning of your message.
-
-Your solution should be all-caps and contain ***no*** spaces.
+Your solution should be ***all-caps*** and contain ***no spaces***.
 
 ## Execution
 
-1.
-2.
-3.
+1. Take the encrypted message from the `.data` attribute of the challenge.
+2. Calculate the shift between the first and last characters (see [Part 1](/Cryptography/01-Caesar_Cipher_I/briefing.md))
+3. Use this information to decrypt the rest of the message
+4. Ensure your message is in ***all-caps*** and contains ***no spaces***, then return it.
 
 ## Conclusion
+
+Make sure you've at least *read* [Part 1](/Cryptography/01-Caesar_Cipher_I/briefing.md) before you give this a go.
+
+If you're sure you're doing everything right, make sure your data is all in the right format and that you are only supplying uppercase ***letters*** as part of your solution.

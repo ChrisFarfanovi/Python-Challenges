@@ -34,12 +34,20 @@ Take the last character of the encrypted string and encrypt it again. This will 
 
 Add this character to the beginning of your message.
 
-Your solution should be all-caps and contain ***no*** spaces.
+Your solution should be ***all-caps*** and contain ***no spaces***.
 
 ## Execution
 
-1.
-2.
-3.
+1. Take your 3 words and shift-value from the `.data` attribute of the challenge.
+2. Join the 3 words together to make your message for encryption.
+3. Encrypt your message.
+4. Encrypt the last letter again and put this value at the beginning of your message.
+5. Ensure your message is in ***all-caps*** and contains ***no spaces***, then return it.
 
 ## Conclusion
+
+Working out how to `shift` characters can be hard if you're new to Python, but if you are struggling for direction; look into the `ord()` and `chr()` functions.
+
+Don't be afraid to fail a bunch of tasks or pull up and online
+
+If you're sure you're doing everything right, make sure your data is all in the right format and that you are only supplying uppercase ***letters*** as part of your solution.
