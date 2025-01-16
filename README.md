@@ -45,45 +45,26 @@ If you have any questions or suggestions just message me, [open a discussion](ht
 
 #### 🔢 Maths
 
-[01-Prime_Factor](/Maths/01-Maths-Prime_Factor/briefing.md)
+[01-Prime_Factor](/Maths/01-Prime_Factor/briefing.md)
 
 #### 🔐 Cryptography
 
 [01-Caesar_Cipher_I](/Cryptography/01-Caesar_Cipher_I/briefing.md)
+[01-Caesar_Cipher_II](/Cryptography/02-Caesar_Cipher_II/briefing.md)
 
 ### 🛠️ WIP
 
-[0?-Close-enough_Prime](/WIP/0?-Closest_Prime/briefing.md)
+[Closest_Prime](/WIP/Closest_Prime/briefing.md)
 
 ### ❓ To-do
 
-#### Parsing integer sequences
-
-Taking a string formatted like this `1,4-6,33,50` and making a list of all the integers this string refers to.
-
-#### Parsing parentheses I
-
-(inspired by [Bitburner - Sanitize Parenthesis in expression](#sanitize-parentheses-in-expression))
-
-Taking a string and determining if the parentheses `()` are all closed or not.
-
-#### Parsing parentheses II
-
-As with [Parsing parentheses I](#parsing-parentheses-i)
-
-Now with brackets `[]` and braces `{}`
-
-#### Parsing parentheses III
-
-As with [Parsing parentheses II](#parsing-parentheses-ii)
-
-Removing empty pairs to reduce the complexity of the expression.
+See `Projects`
 
 ### 🔥 Bitburner Challenges
 
 Mostly from [here](https://github.com/bitburner-official/bitburner-src/blob/stable/src/data/codingcontracttypes.ts)
 
-#### ✅ Largest Prime Factor ([01-Maths-Prime_Factor](/01-Maths-Prime_Factor/briefing.md))
+#### ✅ Largest Prime Factor ([01-Prime_Factor](/Maths/01-Prime_Factor/briefing.md))
 
 Given a number, find its largest prime factor. A prime factor is a factor that is a prime number.
 
